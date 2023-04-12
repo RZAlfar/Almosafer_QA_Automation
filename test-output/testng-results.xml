@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T22:02:39 EET" name="Default suite" finished-at="2023-04-12T22:02:45 EET" duration-ms="5579">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T22:02:39 EET" name="Default test" finished-at="2023-04-12T22:02:45 EET" duration-ms="5579">
+      <class name="TestCases">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestCases@51dbd6e4]" started-at="2023-04-12T22:02:39 EET" name="beforeTest" finished-at="2023-04-12T22:02:44 EET" duration-ms="5030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="default_lang_test()[pri:1, instance:TestCases@51dbd6e4]" started-at="2023-04-12T22:02:44 EET" name="default_lang_test" finished-at="2023-04-12T22:02:45 EET" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- default_lang_test -->
+        <test-method signature="default_currency_test()[pri:2, instance:TestCases@51dbd6e4]" started-at="2023-04-12T22:02:45 EET" name="default_currency_test" finished-at="2023-04-12T22:02:45 EET" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- default_currency_test -->
+        <test-method signature="phone_number_test()[pri:3, instance:TestCases@51dbd6e4]" started-at="2023-04-12T22:02:45 EET" name="phone_number_test" finished-at="2023-04-12T22:02:45 EET" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phone_number_test -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestCases@51dbd6e4]" started-at="2023-04-12T22:02:45 EET" name="afterTest" finished-at="2023-04-12T22:02:45 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
